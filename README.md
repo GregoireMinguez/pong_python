@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="stat_pong.png" alt="project-screenshot" width="600" height="600/">
+<img src="stat_pong.png" alt="project-screenshot" width="300" height="300/">
 
 <img src="pong_game.png" alt="project-screenshot" width="600" height="600/">
 
